@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\dylan\onedrive\documents\visual studio 2015\projects\303#2\list_iterator.h(74): warning C4172: returning address of local variable or temporary: return_value
+  Project2A.vcxproj -> C:\Users\Dylan\OneDrive\Documents\Visual Studio 2015\Projects\303#2\Debug\Project2A.exe
+  Project2A.vcxproj -> C:\Users\Dylan\OneDrive\Documents\Visual Studio 2015\Projects\303#2\Debug\Project2A.pdb (Full PDB)
